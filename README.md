@@ -6,3 +6,4 @@ topics of shell scripting
 2. pull
 3. commit
 4. push
+5. done
