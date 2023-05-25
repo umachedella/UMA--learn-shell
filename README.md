@@ -7,3 +7,4 @@ topics of shell scripting
 3. commit
 4. push
 5. done
+6. complete
